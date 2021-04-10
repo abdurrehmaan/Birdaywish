@@ -16,7 +16,7 @@ figure 2.0
 * HTML
 * CSS
 
-## Contact Owner
+## Contact
 | Name     | Email          |
 | -------- | -------------- |
 | abdur rehman | abdurrehmaan@gmail.com |
